@@ -1,6 +1,6 @@
 # Lokeshwar Chowdary
 
-🎯 **Azure Administrator | Cloud Enthusiast | Fresher**
+🎯 **Azure & AWS Cloud Fresher | Monitoring | Virtual Machines | Networking**
 
 📍 Hyderabad, Telangana  
 📧 lokeshwargamer193@gmail.com  
@@ -9,6 +9,12 @@
 ---
 
 ## 🔹 Skills
-- Azure Administrator (VMs, Networking, Monitoring)
+- Azure Administration (VMs, Networking, Monitoring)
+- AWS Basic Cloud Services
 - Log Analytics & KQL
-- Windows Server Basics
+- Application Insights, Alerts & Dashboards
+- Windows Server Basics  
+
+---
+
+## 📄 [📥 Download My Resume](./lokeshwar%20resume%20aws,azure%20fresher.pdf)
