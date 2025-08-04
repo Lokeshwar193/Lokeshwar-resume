@@ -1,3 +1,14 @@
-# Lokeshwar-resume
-My self i am Kondamuri Lokeshwar i am a hardworking and passionate job seeker with strong organizational skills eager to secure an 
-entry level position. Ready to help the team achieve company goals. 
+# Lokeshwar Chowdary
+
+🎯 **Azure Administrator | Cloud Enthusiast | Fresher**
+
+📍 Hyderabad, Telangana  
+📧 lokeshwargamer193@gmail.com  
+📱 +91-7674954173  
+
+---
+
+## 🔹 Skills
+- Azure Administrator (VMs, Networking, Monitoring)
+- Log Analytics & KQL
+- Windows Server Basics
